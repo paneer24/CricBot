@@ -6,3 +6,4 @@ streamlit_chat
 streamlit
 langchain
 langchain_community
+langchain_huggingface
